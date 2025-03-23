@@ -10909,6 +10909,12 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 
-
+.bg-gradient-primary-to-secondary-light.mt5.md5,
+.bg-gradient-primary-to-secondary-dark.mt5.md5 {
+    margin-top: 1rem !important; 
+    margin-bottom: 1rem !important; 
+    padding-top: 1rem !important; 
+    padding-bottom: 1rem !important; 
+}
 
 
