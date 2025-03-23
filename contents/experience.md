@@ -1,21 +1,15 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **西部计划志愿者**  
+** 2022.8 –  2023.3 | 阿勒泰市委政法委**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### 工作内容:    
+- 市域社会治理部门：完善本委材料，配合本委同事迎接上级检查，积极准备各项所需材料，展现本部门工作成果。在会议中认真做好会议记录，并形成所需材料台账，为后续工作提供清晰的记录和参考。
+- 边防办：疫情期间负责查看边境监控，时刻保持警惕，关注边境动态。定时及时纪录并反馈边境监控中的异常情况，确保边境安全稳定。
+- 文印室：按照本委各部门职责精准发放上级下发的文件。整理了近 20 年本单位材料并建立目录，确保档案资料的准确性和易查性。
+- 办公室：及时通知各乡镇部门参会，并参与会议筹备各项事宜。收集本委季度工作的各项成果与动态，将其汇总成季度工作报告，为市委市政府撰写政府工作报告提供详实、有价值的参考素材。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **金融科技研究生在读**  
+** 2024.9 –  2027.1 | 东北财经大学**  
 
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### 学习课程:    
+- 量化金融分析：旨在掌握量化投资策略设计与实践能力，通过模型与来自动化决策，抹平非理性行为，实现正收益。
+- 机器学习：皆在掌握算法基本原理，运用到价格预测。
