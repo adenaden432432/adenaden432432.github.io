@@ -10918,3 +10918,19 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 
+/* 其他现有样式... */
+
+/* 添加图片自适应样式 */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 添加视频自适应样式 */
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 其他现有样式... */
+
