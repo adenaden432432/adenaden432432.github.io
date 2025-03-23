@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/adenaden432432)
+[![adenaden432432](https://img.shields.io/badge/adenaden432432-github-blue?logo=github)](https://github.com/adenaden432432)
 
 研究生在读
 
